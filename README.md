@@ -1,4 +1,4 @@
-![OguzSarac-Image](https://github.com/oguzsaracc/oguzsaracc/assets/47661397/e4e40b35-f1fe-4788-90d6-181afbc06610)
+![OguzSarac-Image](https://github.com/oguzsaracc/oguzsaracc/assets/47661397/2a5bd2ae-5d52-4ff2-a170-6c6c724f37c9)
 <h1 align="center">Passionate frontend developer on a journey to fullstack excellence</h3>
 
 - 🔭 I’m currently working on **backend services and JavaScript frameworks.**
